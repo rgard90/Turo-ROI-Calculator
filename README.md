@@ -1,4 +1,4 @@
-# Tu-ROI Price Grabber
+# Turo ROI Calculator
 Web scraper to pull estimated income from renting your car out on Turo. Was interested in seeing which cars have the greatest ROI on the Turo platform.
 
 Read the "Write-Up" for a walkthrough of the project from start to finish.
